@@ -24,12 +24,12 @@ The following modules are used in this project:
 ---
 
 ## Trained Models
-- **Trained YOLO v11**: A custom-trained YOLO v11 model for detecting players, referees, and footballs.
+- [Trained YOLO v11](https://drive.google.com/file/d/1qmQ4-if3LWij9dlo1GosYZsAsqUn896M/view?usp=sharing)
 
 ---
 
 ## Sample Videos
-- ![Sample input video](https://drive.google.com/file/d/1EdQDkZd0iPKWrXE1kiwTQ95ssg-u_o4I/view?usp=sharing)
+- [Sample input video](https://drive.google.com/file/d/1EdQDkZd0iPKWrXE1kiwTQ95ssg-u_o4I/view)
 
 ---
 
