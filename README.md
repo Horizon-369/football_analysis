@@ -29,7 +29,7 @@ The following modules are used in this project:
 ---
 
 ## Sample Videos
-- ![Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+- ![Sample input video](https://drive.google.com/file/d/1EdQDkZd0iPKWrXE1kiwTQ95ssg-u_o4I/view?usp=sharing)
 
 ---
 
